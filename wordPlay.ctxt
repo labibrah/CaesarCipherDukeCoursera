@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=wordPlay
+comment0.text=Write\ a\ method\ isVowel\ that\ has\ one\ Char\ parameter\ named\ ch.\ This\ method\ returns\ true\ \nif\ ch\ is\ a\ vowel\ (one\ of\ 'a',\ 'e',\ 'i',\ 'o',\ or\ 'u'\ or\ the\ uppercase\ versions)\ and\ \nfalse\ otherwise.\ You\ should\ write\ a\ tester\ method\ to\ see\ if\ this\ method\ works\ correctly.\ \nFor\ example,\ isVowel(\u2018F\u2019)\ should\ return\ false,\ and\ isVowel(\u2018a\u2019)\ should\ return\ true.
+comment1.params=ch
+comment1.target=boolean\ isVowel(java.lang.Character)
+comment1.text=Write\ a\ method\ isVowel\ that\ has\ one\ Char\ parameter\ named\ ch.\ This\ method\ returns\ true\ \n\ if\ ch\ is\ a\ vowel\ (one\ of\ 'a',\ 'e',\ 'i',\ 'o',\ or\ 'u'\ or\ the\ uppercase\ versions)\ and\ \n\ false\ otherwise.\ You\ should\ write\ a\ tester\ method\ to\ see\ if\ this\ method\ works\ correctly.\ \nFor\ example,\ isVowel(\u2018F\u2019)\ should\ return\ false,\ and\ isVowel(\u2018a\u2019)\ should\ return\ true.
+comment2.params=
+comment2.target=void\ testIsVowel()
+comment3.params=phrase\ ch
+comment3.target=java.lang.String\ replaceVowels(java.lang.String,\ java.lang.Character)
+comment3.text=Write\ a\ method\ replaceVowels\ that\ has\ two\ parameters,\ a\ String\ named\ phrase\ and\ a\ Char\ named\ ch.\ \n\ \ \ \ This\ method\ should\ return\ a\ String\ that\ is\ the\ string\ phrase\ with\ all\ the\ vowels\ (uppercase\ or\ lowercase)\ replaced\ by\ ch.\ \n\ \ \ \ For\ example,\ the\ call\ replaceVowels(\u201CHello\ World\u201D,\ \u2018*\u2019)\ returns\ the\ string\ \u201CH*ll*\ W*rld\u201D.\ \nBe\ sure\ to\ call\ the\ method\ isVowel\ that\ you\ wrote\ and\ also\ test\ this\ method.
+comment4.params=
+comment4.target=void\ testReplaceVowels()
+comment5.params=phrase\ ch
+comment5.target=java.lang.String\ emphasize(java.lang.String,\ java.lang.Character)
+comment6.params=
+comment6.target=void\ testEmphasize()
+numComments=7
